@@ -6,6 +6,11 @@ My English ist not the yelow from the egg but i think you can understand me.
 I want to say im not the best programmer and i do it as a hobby to improve my programming skills.
 Do you see any mistakes you can write it to me.
 
+# Setup the Bot
+Open Visual Studios Code and go into a new Terminal and write "npm install" then all packages are installed that are required
+
+If you need help somewere scroll down to **If you need Help?**
+
 # What can the bot do right now?
 My bot has currently (first version)
 
