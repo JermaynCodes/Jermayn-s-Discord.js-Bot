@@ -1,12 +1,17 @@
 # Jermayn-s-Discord.js-Bot
 Hey, thats my first Discord Bot. Maybe you can use it for your own or give me advices to improve my discord bot. &lt;3
 
+First.
+My English ist not the yelow from the egg but i think you can understand me.
+I want to say im not the best programmer and i do it as a hobby to improve my programming skills.
+Do you see any mistakes you can write it to me.
+
 # What can the bot do right now?
 My bot has currently (first version)
 
 - Level System (at this time only a simple one i want to improve this system with quest...)
-- It sends a welcome message to every user (DM look at the link below you can see a picture how it looks)
-- It sends a welcome canvas in a textchannel (Look at the picture below)
+- It sends a welcome message to every user (https://github.com/JermaynCodes/text/blob/main/dmusermessage.PNG)
+- It sends a welcome canvas in a textchannel (https://github.com/JermaynCodes/text/blob/main/welcomecanvas.PNG)
 - A toggle command for toggeling the XP ON/OFF (cause not every user like a level system)
 - Verify System (simple !verify darling)
 - A "Complain" and Scomplain" (only in the DMs look below at DM Commands)
@@ -52,3 +57,6 @@ At this time only
 - NFSW Commands
 
 And much more :)
+
+# If you need Help?
+Do you need help to translate from my language german to englisch or set up the bot than you can join my Discord Server https://discord.gg/x7tWxWk and i can help you :).
